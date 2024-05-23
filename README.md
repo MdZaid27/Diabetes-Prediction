@@ -18,7 +18,7 @@ The [Diabetes dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes) is a co
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/MdZaid27/diabetes-prediction.git
 ```
 
 2. Navigate to the project directory:
